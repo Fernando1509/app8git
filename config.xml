@@ -42,7 +42,7 @@ Fernando flores Guzman
 
 <!--Colocar icono de la app-->
 
-<icon src="imagenes/negro.png"/>
+<icon src="res/android/negro2.png"/>
 
 
 </widget>
